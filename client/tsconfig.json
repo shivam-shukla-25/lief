@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+    "declaration": false,
+    "sourceMap": false
+    },
+    "types": ["vite/client"],
+  "include": ["src", "app/vite-env.d.ts"],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

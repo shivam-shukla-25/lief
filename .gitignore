@@ -1,0 +1,6 @@
+.vercel
+client/node_modules
+api/node_modules
+api/.env
+client/.env
+client/.next
