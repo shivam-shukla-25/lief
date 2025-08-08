@@ -3,6 +3,8 @@
 ## Overview
 Lief is a fullstack web application for uploading, managing, and OCR-processing medical case notes. It features a React frontend and a Node.js/Express backend, with image uploads handled via Cloudinary and OCR via Tesseract.js. The project is deployed on Vercel (frontend) and Render (backend).
 
+- **System Design:** [Tech-system-design-doc](https://docs.google.com/document/d/1hpgztN1y2Nx2hjq0cINTL2ssMyJIw0JfPz5crHOcYKg/edit?usp=sharing)
+
 ---
 
 ## Project Structure
